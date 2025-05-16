@@ -5,7 +5,7 @@ import requests
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, CallbackQueryHandler, filters
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # 🔁 Thay bằng token thật
+BOT_TOKEN = '7661562599:AAG5AvXpwl87M5up34-nj9AvMiJu-jYuWlA'  # 🔁 Thay bằng token thật
 proxy_file = 'proxy.txt'
 vps_file = 'vps.txt'
 
